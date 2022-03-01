@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ICS.iml" filepath="$PROJECT_DIR$/ICS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICS-admin/ics-admin.iml" filepath="$PROJECT_DIR$/ICS-admin/ics-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICS-common/ics-common.iml" filepath="$PROJECT_DIR$/ICS-common/ics-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICS-framework/ics-framework.iml" filepath="$PROJECT_DIR$/ICS-framework/ics-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICS-generator/ics-generator.iml" filepath="$PROJECT_DIR$/ICS-generator/ics-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICS-quartz/ics-quartz.iml" filepath="$PROJECT_DIR$/ICS-quartz/ics-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICS-system/ics-system.iml" filepath="$PROJECT_DIR$/ICS-system/ics-system.iml" />
+    </modules>
+  </component>
+</project>
